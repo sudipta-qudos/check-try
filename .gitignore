@@ -1,0 +1,15 @@
+# Compiled binaries
+a
+a.out
+*.o
+*.exe
+
+# Build directories
+build/
+cmake-build-*/
+
+# Logs
+*.log
+
+# macOS
+.DS_Store
